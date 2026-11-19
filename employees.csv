@@ -1,0 +1,15 @@
+
+id,name,department,salary,joining_date,city
+1,Arun,Sales,30000,2023-01-15,Chennai
+2,Priya,HR,45000,2023-02-20,chennai
+3,Rahul,IT,60000,2023-03-10,Bangalore
+4,Divya,IT,75000,2023-04-05,Chennai
+5,Karthik,Finance,90000,2023-05-12,Mumbai
+6,Meena,Sales,,2023-06-18,Chennai
+7,Arjun,HR,50000,2023-07-22,
+8,Sneha,IT,65000,2023-08-14,bangalore
+9,Vijay,Finance,95000,2023-09-01,Mumbai
+10,Anu,Sales,35000,2023-10-11,Chennai
+11,Ravi,,55000,2023-11-19,Hyderabad
+12,Kavya,IT,70000,,Chennai
+13,Manoj,HR,abc,2023-12-01,chennai

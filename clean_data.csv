@@ -1,0 +1,14 @@
+id,name,department,salary,joining_date,city,date_missing
+1,Arun,Sales,30000.0,2023-01-15,Chennai,False
+2,Priya,HR,45000.0,2023-02-20,Chennai,False
+3,Rahul,IT,60000.0,2023-03-10,Bangalore,False
+4,Divya,IT,75000.0,2023-04-05,Chennai,False
+5,Karthik,Finance,90000.0,2023-05-12,Mumbai,False
+6,Meena,Sales,60000.0,2023-06-18,Chennai,False
+7,Arjun,HR,50000.0,2023-07-22,Chennai,False
+8,Sneha,IT,65000.0,2023-08-14,Bangalore,False
+9,Vijay,Finance,95000.0,2023-09-01,Mumbai,False
+10,Anu,Sales,35000.0,2023-10-11,Chennai,False
+11,Ravi,IT,55000.0,2023-11-19,Hyderabad,False
+12,Kavya,IT,70000.0,,Chennai,True
+13,Manoj,HR,60000.0,2023-12-01,Chennai,False
